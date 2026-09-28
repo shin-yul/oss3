@@ -1,6 +1,5 @@
 hanyang
-
 university
-
 erica
+ERICA
 
